@@ -4,6 +4,7 @@
 # Github| @rlyonheart
 # Twitter| @rly0nheart
 # Instagram| @rlyonheart
+# Telegram| t.me/rlyonheart
 
 
 # import cryptography module for encrypting/decrypting
