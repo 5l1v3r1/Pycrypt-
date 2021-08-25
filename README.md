@@ -1,3 +1,5 @@
+**Note**: This is one of the first projects i ever worked. So I decided to archive it. :)
+
 # PyCrypt
 
 Simple text encrypting program written in python.
